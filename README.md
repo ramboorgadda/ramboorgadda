@@ -1,7 +1,6 @@
 - 👋 Hi there 👋 My name's Rama krishna Boorgadda
-- 👀 I’m interested in ...
-- 🌱 Fusion Middleware Architect 🔹 Java Developer 🔹 Software Architect 🔹 Speaker and learner 
-However, I'm also intensively exploring such topics like (among other things):
+-  Fusion Middleware Architect 🔹 Java Developer 🔹 Software Architect 🔹 Speaker and learner 
+-  However, I'm also intensively exploring such topics like (among other things):
 🔹 SpringBoot Microservices
 🔹 Apache Kafka
 🔹 kubernetes
