@@ -1,5 +1,5 @@
 - 👋 Hi there 👋 My name's Rama krishna Boorgadda
--  Fusion Middleware Architect 🔹 Java Developer 🔹 Software Architect 🔹 Speaker and learner 
+-  Fusion Middleware Architect 🔹 AI/ML Principal Engineer 🔹 Java Developer 🔹 Software Architect 🔹 Speaker and learner 
 -  However, I'm also intensively exploring such topics like (among other things):
 🔹 SpringBoot Microservices
 🔹 Apache Kafka
